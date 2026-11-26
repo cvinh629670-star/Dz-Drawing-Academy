@@ -1,0 +1,1527 @@
+[
+  {
+    "id": "line",
+    "title": "Nét thẳng tự tin",
+    "categoryId": "Nền tảng",
+    "chapterId": "line",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "16/20 nét đi qua cả hai điểm, không tô lại."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Chuyển động từ vai giúp nét dài ổn định.",
+    "illustrations": [],
+    "steps": [
+      "Đặt hai điểm.",
+      "Lướt bút trên không ba lần.",
+      "Kéo một nét."
+    ],
+    "examples": {
+      "correct": "16/20 nét đi qua cả hai điểm, không tô lại.",
+      "incorrect": "Móc ở cuối nét do dừng cổ tay."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 20 nét giữa các cặp điểm cách nhau 5–15 cm.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Móc ở cuối nét do dừng cổ tay."
+    ],
+    "assessmentRubric": [
+      "16/20 nét đi qua cả hai điểm, không tô lại."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Nét thẳng tự tin” là gì?",
+        "answer": "Chuyển động từ vai giúp nét dài ổn định."
+      }
+    ],
+    "estimatedMinutes": 15,
+    "skillIds": [
+      "line"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "curve"
+    ]
+  },
+  {
+    "id": "curve",
+    "title": "Nét cong có nhịp",
+    "categoryId": "Nền tảng",
+    "chapterId": "curve",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "8 cặp không có góc gãy ngoài ý muốn."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Đường cong mượt đổi hướng liên tục.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ đường chữ C.",
+      "Đánh dấu đoạn cong mạnh.",
+      "Vẽ chữ S có một điểm uốn."
+    ],
+    "examples": {
+      "correct": "8 cặp không có góc gãy ngoài ý muốn.",
+      "incorrect": "Tăng lực ở điểm uốn làm nét khựng."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 10 cặp C/S với độ cong khác nhau.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Tăng lực ở điểm uốn làm nét khựng."
+    ],
+    "assessmentRubric": [
+      "8 cặp không có góc gãy ngoài ý muốn."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Nét cong có nhịp” là gì?",
+        "answer": "Đường cong mượt đổi hướng liên tục."
+      }
+    ],
+    "estimatedMinutes": 15,
+    "skillIds": [
+      "curve"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "ellipse"
+    ]
+  },
+  {
+    "id": "ellipse",
+    "title": "Hình elip",
+    "categoryId": "Nền tảng",
+    "chapterId": "ellipse",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "8 elip chạm đủ bốn cạnh và khép kín."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Hai nửa elip đối xứng quanh trục ngắn và trục dài.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ hộp bao.",
+      "Đánh dấu bốn tiếp điểm.",
+      "Lướt bút quanh chu vi."
+    ],
+    "examples": {
+      "correct": "8 elip chạm đủ bốn cạnh và khép kín.",
+      "incorrect": "Hai đầu elip nhọn hoặc trục bị nghiêng."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 10 elip trong hộp có tỷ lệ khác nhau.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Hai đầu elip nhọn hoặc trục bị nghiêng."
+    ],
+    "assessmentRubric": [
+      "8 elip chạm đủ bốn cạnh và khép kín."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Hình elip” là gì?",
+        "answer": "Hai nửa elip đối xứng quanh trục ngắn và trục dài."
+      }
+    ],
+    "estimatedMinutes": 15,
+    "skillIds": [
+      "ellipse"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "weight"
+    ]
+  },
+  {
+    "id": "weight",
+    "title": "Độ dày nét",
+    "categoryId": "Nền tảng",
+    "chapterId": "weight",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Vùng nhấn nằm đúng chỗ che khuất trên 4 bài."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Nét dày có thể nhấn chỗ chồng lớp và vùng khuất sáng.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ hai hình chồng nhau.",
+      "Nhấn giao điểm và giảm lực về phía sáng."
+    ],
+    "examples": {
+      "correct": "Vùng nhấn nằm đúng chỗ che khuất trên 4 bài.",
+      "incorrect": "Viền dày đều làm mất phân cấp."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Thử 5 tổ hợp hình chồng lớp.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Viền dày đều làm mất phân cấp."
+    ],
+    "assessmentRubric": [
+      "Vùng nhấn nằm đúng chỗ che khuất trên 4 bài."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Độ dày nét” là gì?",
+        "answer": "Nét dày có thể nhấn chỗ chồng lớp và vùng khuất sáng."
+      }
+    ],
+    "estimatedMinutes": 15,
+    "skillIds": [
+      "weight"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "shape"
+    ]
+  },
+  {
+    "id": "shape",
+    "title": "Phân tích hình 2D",
+    "categoryId": "Nền tảng",
+    "chapterId": "shape",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Nhận ra ít nhất 5 đồ vật ở kích thước thumbnail."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Khối dáng lớn định danh vật thể trước chi tiết.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ đường bao của bình.",
+      "Thay thân bằng hình tròn và cổ bằng hình chữ nhật."
+    ],
+    "examples": {
+      "correct": "Nhận ra ít nhất 5 đồ vật ở kích thước thumbnail.",
+      "incorrect": "Chọn chi tiết nhỏ trước hình lớn."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Rút gọn 6 đồ vật bằng tối đa 4 hình.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Chọn chi tiết nhỏ trước hình lớn."
+    ],
+    "assessmentRubric": [
+      "Nhận ra ít nhất 5 đồ vật ở kích thước thumbnail."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phân tích hình 2D” là gì?",
+        "answer": "Khối dáng lớn định danh vật thể trước chi tiết."
+      }
+    ],
+    "estimatedMinutes": 15,
+    "skillIds": [
+      "shape"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "cube"
+    ]
+  },
+  {
+    "id": "cube",
+    "title": "Khối lập phương",
+    "categoryId": "Nền tảng",
+    "chapterId": "cube",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Kiểm tra 3 nhóm cạnh và lưu bản thực hành."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Các cạnh song song trong không gian cùng hướng về một điểm tụ.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ mặt trước.",
+      "Dựng các cạnh đi xa và khép mặt sau."
+    ],
+    "examples": {
+      "correct": "Kiểm tra 3 nhóm cạnh và lưu bản thực hành.",
+      "incorrect": "Các cạnh đi xa tách rộng ngoài ý muốn."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 10 khối mẫu, 5 góc khác và 3 khối tưởng tượng.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Các cạnh đi xa tách rộng ngoài ý muốn."
+    ],
+    "assessmentRubric": [
+      "Kiểm tra 3 nhóm cạnh và lưu bản thực hành."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Khối lập phương” là gì?",
+        "answer": "Các cạnh song song trong không gian cùng hướng về một điểm tụ."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "cube"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "sphere"
+    ]
+  },
+  {
+    "id": "sphere",
+    "title": "Khối cầu và đường bao chéo",
+    "categoryId": "Nền tảng",
+    "chapterId": "sphere",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Vĩ tuyến đồng trục và nén dần khi gần đường bao."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Đường bao chéo mô tả hướng bề mặt cong.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ đường tròn.",
+      "Đặt trục.",
+      "Thêm ba vĩ tuyến elip."
+    ],
+    "examples": {
+      "correct": "Vĩ tuyến đồng trục và nén dần khi gần đường bao.",
+      "incorrect": "Các đường vĩ tuyến có độ mở giống nhau."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 6 quả cầu có trục nghiêng khác nhau.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Các đường vĩ tuyến có độ mở giống nhau."
+    ],
+    "assessmentRubric": [
+      "Vĩ tuyến đồng trục và nén dần khi gần đường bao."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Khối cầu và đường bao chéo” là gì?",
+        "answer": "Đường bao chéo mô tả hướng bề mặt cong."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "sphere"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "cylinder"
+    ]
+  },
+  {
+    "id": "cylinder",
+    "title": "Khối trụ và khối nón",
+    "categoryId": "Nền tảng",
+    "chapterId": "cylinder",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "8 hình có trục và tiết diện thẳng hàng."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Trục nối tâm các tiết diện và vuông góc với trục dài của elip.",
+    "illustrations": [],
+    "steps": [
+      "Dựng trục.",
+      "Vẽ tiết diện đáy.",
+      "Nối hai tiếp tuyến hoặc nối tới đỉnh."
+    ],
+    "examples": {
+      "correct": "8 hình có trục và tiết diện thẳng hàng.",
+      "incorrect": "Cạnh bên cắt vào elip thay vì tiếp xúc."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 5 khối trụ và 5 khối nón ở góc nghiêng.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Cạnh bên cắt vào elip thay vì tiếp xúc."
+    ],
+    "assessmentRubric": [
+      "8 hình có trục và tiết diện thẳng hàng."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Khối trụ và khối nón” là gì?",
+        "answer": "Trục nối tâm các tiết diện và vuông góc với trục dài của elip."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "cylinder"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "observe"
+    ]
+  },
+  {
+    "id": "observe",
+    "title": "Đo tỷ lệ bằng mắt",
+    "categoryId": "Nền tảng",
+    "chapterId": "observe",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Sai lệch tỷ lệ dưới 10% khi đối chiếu ảnh."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Một kích thước chuẩn giúp so sánh các kích thước còn lại.",
+    "illustrations": [],
+    "steps": [
+      "Chọn chiều cao cốc làm đơn vị.",
+      "So chiều rộng và độ cao tay cầm."
+    ],
+    "examples": {
+      "correct": "Sai lệch tỷ lệ dưới 10% khi đối chiếu ảnh.",
+      "incorrect": "Đổi tư thế quan sát giữa lúc đo."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Đo và vẽ 3 vật dụng cạnh nhau từ một vị trí.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Đổi tư thế quan sát giữa lúc đo."
+    ],
+    "assessmentRubric": [
+      "Sai lệch tỷ lệ dưới 10% khi đối chiếu ảnh."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Đo tỷ lệ bằng mắt” là gì?",
+        "answer": "Một kích thước chuẩn giúp so sánh các kích thước còn lại."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "observe"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "negative"
+    ]
+  },
+  {
+    "id": "negative",
+    "title": "Khoảng trống âm",
+    "categoryId": "Nền tảng",
+    "chapterId": "negative",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Các góc và kích thước khoảng trống khớp mẫu."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Hình nền giữa các bộ phận giúp kiểm tra đường bao.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ một chiếc ghế.",
+      "Phác khoảng trống giữa chân ghế trước."
+    ],
+    "examples": {
+      "correct": "Các góc và kích thước khoảng trống khớp mẫu.",
+      "incorrect": "Vẽ theo biểu tượng chiếc ghế quen thuộc."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 3 khoảng trống từ 2 góc nhìn.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Vẽ theo biểu tượng chiếc ghế quen thuộc."
+    ],
+    "assessmentRubric": [
+      "Các góc và kích thước khoảng trống khớp mẫu."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Khoảng trống âm” là gì?",
+        "answer": "Hình nền giữa các bộ phận giúp kiểm tra đường bao."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "negative"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "compose"
+    ]
+  },
+  {
+    "id": "compose",
+    "title": "Bố cục thumbnail",
+    "categoryId": "Nền tảng",
+    "chapterId": "compose",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Chọn được 2 bản có một điểm nhấn rõ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Mảng lớn và tương phản dẫn mắt tới điểm nhấn.",
+    "illustrations": [],
+    "steps": [
+      "Chia khung thành ba phần.",
+      "Đặt mảng đậm gần một giao điểm."
+    ],
+    "examples": {
+      "correct": "Chọn được 2 bản có một điểm nhấn rõ.",
+      "incorrect": "Dùng tương phản mạnh ở mọi góc."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 6 thumbnail bằng 3 mức sáng.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Dùng tương phản mạnh ở mọi góc."
+    ],
+    "assessmentRubric": [
+      "Chọn được 2 bản có một điểm nhấn rõ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Bố cục thumbnail” là gì?",
+        "answer": "Mảng lớn và tương phản dẫn mắt tới điểm nhấn."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "compose"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  },
+  {
+    "id": "pers1",
+    "title": "Phối cảnh một điểm tụ",
+    "categoryId": "Không gian",
+    "chapterId": "pers1",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Các cạnh chiều sâu giao đúng điểm tụ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Các cạnh theo chiều sâu gặp nhau tại điểm tụ trên chân trời.",
+    "illustrations": [],
+    "steps": [
+      "Đặt chân trời và điểm tụ.",
+      "Nối các góc của mặt trước về điểm tụ."
+    ],
+    "examples": {
+      "correct": "Các cạnh chiều sâu giao đúng điểm tụ.",
+      "incorrect": "Cạnh ngang mặt trước bị nghiêng theo đường chéo."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ hành lang và 5 cửa lùi dần.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Cạnh ngang mặt trước bị nghiêng theo đường chéo."
+    ],
+    "assessmentRubric": [
+      "Các cạnh chiều sâu giao đúng điểm tụ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phối cảnh một điểm tụ” là gì?",
+        "answer": "Các cạnh theo chiều sâu gặp nhau tại điểm tụ trên chân trời."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "pers1"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "pers2"
+    ]
+  },
+  {
+    "id": "pers2",
+    "title": "Phối cảnh hai điểm tụ",
+    "categoryId": "Không gian",
+    "chapterId": "pers2",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Mỗi hộp có hai nhóm cạnh ngang hội tụ nhất quán."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Hai nhóm cạnh ngang hướng tới hai điểm tụ cùng đường chân trời.",
+    "illustrations": [],
+    "steps": [
+      "Dựng cạnh đứng gần.",
+      "Nối hai đầu đến hai điểm tụ.",
+      "Đóng hai mặt."
+    ],
+    "examples": {
+      "correct": "Mỗi hộp có hai nhóm cạnh ngang hội tụ nhất quán.",
+      "incorrect": "Đặt hai điểm tụ quá gần làm hộp méo."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Dựng 5 hộp nằm hai bên tầm mắt.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Đặt hai điểm tụ quá gần làm hộp méo."
+    ],
+    "assessmentRubric": [
+      "Mỗi hộp có hai nhóm cạnh ngang hội tụ nhất quán."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phối cảnh hai điểm tụ” là gì?",
+        "answer": "Hai nhóm cạnh ngang hướng tới hai điểm tụ cùng đường chân trời."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "pers2"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "pers3"
+    ]
+  },
+  {
+    "id": "pers3",
+    "title": "Phối cảnh ba điểm tụ",
+    "categoryId": "Không gian",
+    "chapterId": "pers3",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Ba nhóm cạnh đi đúng ba điểm."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Nhóm cạnh đứng tụ khi góc nhìn hướng lên hoặc xuống.",
+    "illustrations": [],
+    "steps": [
+      "Đặt điểm tụ thứ ba trên chân trời cho góc nhìn hướng lên.",
+      "Sau đó dựng khối."
+    ],
+    "examples": {
+      "correct": "Ba nhóm cạnh đi đúng ba điểm.",
+      "incorrect": "Trộn cạnh đứng song song với cạnh tụ đứng."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ hai tòa nhà nhìn từ dưới và từ trên.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Trộn cạnh đứng song song với cạnh tụ đứng."
+    ],
+    "assessmentRubric": [
+      "Ba nhóm cạnh đi đúng ba điểm."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phối cảnh ba điểm tụ” là gì?",
+        "answer": "Nhóm cạnh đứng tụ khi góc nhìn hướng lên hoặc xuống."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "pers3"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "foreshorten"
+    ]
+  },
+  {
+    "id": "foreshorten",
+    "title": "Rút ngắn phối cảnh",
+    "categoryId": "Không gian",
+    "chapterId": "foreshorten",
+    "difficulty": "Cơ bản",
+    "objectives": [
+      "Phần gần che phần xa hợp lý ở 4 bản."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Đoạn hướng về người xem xuất hiện ngắn hơn và thường có chồng lớp.",
+    "illustrations": [],
+    "steps": [
+      "Dựng trục cánh tay hướng về máy ảnh.",
+      "Chồng hình trụ và nhấn kích thước phần gần."
+    ],
+    "examples": {
+      "correct": "Phần gần che phần xa hợp lý ở 4 bản.",
+      "incorrect": "Rút ngắn cả bề rộng thay vì chiều dọc."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 5 cánh tay hướng về người xem.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Rút ngắn cả bề rộng thay vì chiều dọc."
+    ],
+    "assessmentRubric": [
+      "Phần gần che phần xa hợp lý ở 4 bản."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Rút ngắn phối cảnh” là gì?",
+        "answer": "Đoạn hướng về người xem xuất hiện ngắn hơn và thường có chồng lớp."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "foreshorten"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  },
+  {
+    "id": "gesture",
+    "title": "Dáng và đường hành động",
+    "categoryId": "Giải phẫu",
+    "chapterId": "gesture",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "8 dáng đọc được hướng chuyển động khi thu nhỏ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Một đường hành động diễn tả lực chính xuyên suốt dáng.",
+    "illustrations": [],
+    "steps": [
+      "Tìm chân chịu lực.",
+      "Kéo đường hành động.",
+      "Đánh trục vai và hông."
+    ],
+    "examples": {
+      "correct": "8 dáng đọc được hướng chuyển động khi thu nhỏ.",
+      "incorrect": "Vẽ viền cơ thể trước trọng tâm."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Thực hiện 10 dáng, mỗi dáng 30 giây.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Vẽ viền cơ thể trước trọng tâm."
+    ],
+    "assessmentRubric": [
+      "8 dáng đọc được hướng chuyển động khi thu nhỏ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Dáng và đường hành động” là gì?",
+        "answer": "Một đường hành động diễn tả lực chính xuyên suốt dáng."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "gesture"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "torso"
+    ]
+  },
+  {
+    "id": "torso",
+    "title": "Lồng ngực và xương chậu",
+    "categoryId": "Giải phẫu",
+    "chapterId": "torso",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Hướng mặt trước của hai khối thể hiện rõ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Hai khối thân có thể xoay và nghiêng tương đối.",
+    "illustrations": [],
+    "steps": [
+      "Dựng lồng ngực dạng trứng và chậu dạng hộp.",
+      "Nối bằng đường cột sống."
+    ],
+    "examples": {
+      "correct": "Hướng mặt trước của hai khối thể hiện rõ.",
+      "incorrect": "Để hai khối dính vào nhau như một tấm ván."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 6 tư thế xoắn thân.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Để hai khối dính vào nhau như một tấm ván."
+    ],
+    "assessmentRubric": [
+      "Hướng mặt trước của hai khối thể hiện rõ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Lồng ngực và xương chậu” là gì?",
+        "answer": "Hai khối thân có thể xoay và nghiêng tương đối."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "torso"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "head"
+    ]
+  },
+  {
+    "id": "head",
+    "title": "Dựng đầu Loomis",
+    "categoryId": "Giải phẫu",
+    "chapterId": "head",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Các mốc đồng hướng với trục đầu."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Mặt bên là lát cắt của khối cầu đầu.",
+    "illustrations": [],
+    "steps": [
+      "Cắt mặt bên.",
+      "Đánh trục giữa và đường chân mày.",
+      "Dựng hàm."
+    ],
+    "examples": {
+      "correct": "Các mốc đồng hướng với trục đầu.",
+      "incorrect": "Mắt ở góc xa rộng bằng mắt gần."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 3 đầu chính diện, 3 góc nghiêng và 3 góc 3/4.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Mắt ở góc xa rộng bằng mắt gần."
+    ],
+    "assessmentRubric": [
+      "Các mốc đồng hướng với trục đầu."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Dựng đầu Loomis” là gì?",
+        "answer": "Mặt bên là lát cắt của khối cầu đầu."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "head"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "hand"
+    ]
+  },
+  {
+    "id": "hand",
+    "title": "Dựng bàn tay",
+    "categoryId": "Giải phẫu",
+    "chapterId": "hand",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Các ngón gập đúng chiều và ngón cái có gốc riêng."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Lòng bàn tay là khối nêm và ngón tay là các đoạn khớp.",
+    "illustrations": [],
+    "steps": [
+      "Phác khối lòng bàn tay.",
+      "Đánh vòng cung khớp.",
+      "Nối ngón."
+    ],
+    "examples": {
+      "correct": "Các ngón gập đúng chiều và ngón cái có gốc riêng.",
+      "incorrect": "Vẽ tất cả đốt ngón dài đều nhau."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 5 bàn tay mở, 5 bàn tay nắm.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Vẽ tất cả đốt ngón dài đều nhau."
+    ],
+    "assessmentRubric": [
+      "Các ngón gập đúng chiều và ngón cái có gốc riêng."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Dựng bàn tay” là gì?",
+        "answer": "Lòng bàn tay là khối nêm và ngón tay là các đoạn khớp."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "hand"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "feet"
+    ]
+  },
+  {
+    "id": "feet",
+    "title": "Dựng bàn chân",
+    "categoryId": "Giải phẫu",
+    "chapterId": "feet",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Mặt đế đứng vững trên cùng mặt phẳng."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Bàn chân có khối gót và nêm hướng tới các ngón.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ khối gót.",
+      "Đường vòm chân và mặt phẳng chịu lực."
+    ],
+    "examples": {
+      "correct": "Mặt đế đứng vững trên cùng mặt phẳng.",
+      "incorrect": "Bỏ qua chênh lệch cao giữa gót và vòm."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 5 góc của cùng một bàn chân.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Bỏ qua chênh lệch cao giữa gót và vòm."
+    ],
+    "assessmentRubric": [
+      "Mặt đế đứng vững trên cùng mặt phẳng."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Dựng bàn chân” là gì?",
+        "answer": "Bàn chân có khối gót và nêm hướng tới các ngón."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "feet"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "face"
+    ]
+  },
+  {
+    "id": "face",
+    "title": "Biểu cảm khuôn mặt",
+    "categoryId": "Giải phẫu",
+    "chapterId": "face",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Người khác nhận ra 5 biểu cảm khi che chú thích."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Lông mày, mí và khóe miệng phối hợp để tạo biểu cảm.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ một khuôn mặt trung tính.",
+      "Thay góc mày.",
+      "Độ mở mắt và miệng."
+    ],
+    "examples": {
+      "correct": "Người khác nhận ra 5 biểu cảm khi che chú thích.",
+      "incorrect": "Thay tỷ lệ sọ làm nhân vật mất nhất quán."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 6 biểu cảm của một người.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Thay tỷ lệ sọ làm nhân vật mất nhất quán."
+    ],
+    "assessmentRubric": [
+      "Người khác nhận ra 5 biểu cảm khi che chú thích."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Biểu cảm khuôn mặt” là gì?",
+        "answer": "Lông mày, mí và khóe miệng phối hợp để tạo biểu cảm."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "face"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  },
+  {
+    "id": "value",
+    "title": "Nghiên cứu sắc độ",
+    "categoryId": "Hội họa",
+    "chapterId": "value",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Mỗi bản đọc được chủ thể ở kích thước thumbnail."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Ba nhóm sáng, trung gian và tối giúp đọc hình rõ ở kích thước nhỏ.",
+    "illustrations": [],
+    "steps": [
+      "Tạo thang 5 bậc xám.",
+      "Quy ảnh mẫu về 3 mảng."
+    ],
+    "examples": {
+      "correct": "Mỗi bản đọc được chủ thể ở kích thước thumbnail.",
+      "incorrect": "Đưa quá nhiều bậc xám vào một vùng."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 3 bản value study thời lượng 5 phút.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Đưa quá nhiều bậc xám vào một vùng."
+    ],
+    "assessmentRubric": [
+      "Mỗi bản đọc được chủ thể ở kích thước thumbnail."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Nghiên cứu sắc độ” là gì?",
+        "answer": "Ba nhóm sáng, trung gian và tối giúp đọc hình rõ ở kích thước nhỏ."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "value"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "light"
+    ]
+  },
+  {
+    "id": "light",
+    "title": "Ánh sáng trên khối cầu",
+    "categoryId": "Hội họa",
+    "chapterId": "light",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Bóng đổ luôn đi ngược hướng nguồn sáng."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Bóng lõi nằm trên vật và bóng đổ nằm trên mặt nhận bóng.",
+    "illustrations": [],
+    "steps": [
+      "Đánh dấu hướng sáng.",
+      "Chia vùng sáng tối.",
+      "Dựng bóng đổ."
+    ],
+    "examples": {
+      "correct": "Bóng đổ luôn đi ngược hướng nguồn sáng.",
+      "incorrect": "Ánh phản quang sáng hơn vùng chiếu trực tiếp."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ quả cầu dưới 3 hướng sáng.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Ánh phản quang sáng hơn vùng chiếu trực tiếp."
+    ],
+    "assessmentRubric": [
+      "Bóng đổ luôn đi ngược hướng nguồn sáng."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Ánh sáng trên khối cầu” là gì?",
+        "answer": "Bóng lõi nằm trên vật và bóng đổ nằm trên mặt nhận bóng."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "light"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "color"
+    ]
+  },
+  {
+    "id": "color",
+    "title": "Phối màu tương phản",
+    "categoryId": "Hội họa",
+    "chapterId": "color",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Vùng nhấn nổi bật cả ở phiên bản grayscale."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Màu bổ túc giúp điểm nhấn nổi lên khi có một màu chủ đạo.",
+    "illustrations": [],
+    "steps": [
+      "Chọn hai hue đối diện.",
+      "Giảm bão hòa màu nền và giữ màu nhấn."
+    ],
+    "examples": {
+      "correct": "Vùng nhấn nổi bật cả ở phiên bản grayscale.",
+      "incorrect": "Chia diện tích đều khiến hai màu tranh nhau."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Tạo 3 bảng màu với tỷ lệ 70/25/5.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Chia diện tích đều khiến hai màu tranh nhau."
+    ],
+    "assessmentRubric": [
+      "Vùng nhấn nổi bật cả ở phiên bản grayscale."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phối màu tương phản” là gì?",
+        "answer": "Màu bổ túc giúp điểm nhấn nổi lên khi có một màu chủ đạo."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "color"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "material"
+    ]
+  },
+  {
+    "id": "material",
+    "title": "Phân biệt gỗ và kim loại",
+    "categoryId": "Hội họa",
+    "chapterId": "material",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Nhận ra vật liệu khi bỏ màu và chữ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Độ sắc và tương phản phản xạ giúp phân biệt bề mặt.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ hai trụ giống nhau.",
+      "Thêm thớ gỗ mềm và dải phản xạ cứng trên kim loại."
+    ],
+    "examples": {
+      "correct": "Nhận ra vật liệu khi bỏ màu và chữ.",
+      "incorrect": "Dùng cùng loại viền highlight cho cả hai."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ hai cặp vật liệu dưới nguồn sáng giống nhau.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Dùng cùng loại viền highlight cho cả hai."
+    ],
+    "assessmentRubric": [
+      "Nhận ra vật liệu khi bỏ màu và chữ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Phân biệt gỗ và kim loại” là gì?",
+        "answer": "Độ sắc và tương phản phản xạ giúp phân biệt bề mặt."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "material"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  },
+  {
+    "id": "silhouette",
+    "title": "Silhouette nhân vật",
+    "categoryId": "Nhân vật",
+    "chapterId": "silhouette",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Ít nhất 3 dáng đọc được nghề khi thu nhỏ."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Khoảng trống giữa chi và thân giúp dáng dễ đọc.",
+    "illustrations": [],
+    "steps": [
+      "Tô đen dáng.",
+      "Mở khoảng trống quanh tay và đạo cụ."
+    ],
+    "examples": {
+      "correct": "Ít nhất 3 dáng đọc được nghề khi thu nhỏ.",
+      "incorrect": "Đặt đạo cụ trùng thân làm mất hình."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Tạo 8 silhouette cho một nghề.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Đặt đạo cụ trùng thân làm mất hình."
+    ],
+    "assessmentRubric": [
+      "Ít nhất 3 dáng đọc được nghề khi thu nhỏ."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Silhouette nhân vật” là gì?",
+        "answer": "Khoảng trống giữa chi và thân giúp dáng dễ đọc."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "silhouette"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "costume"
+    ]
+  },
+  {
+    "id": "costume",
+    "title": "Trang phục kể chuyện",
+    "categoryId": "Nhân vật",
+    "chapterId": "costume",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Chỉ ra được công dụng của 3 chi tiết."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Trang phục phản ánh nghề, khí hậu và khả năng di chuyển.",
+    "illustrations": [],
+    "steps": [
+      "Chọn nghề và khí hậu.",
+      "Chia trang phục thành lớp cơ bản và lớp bảo hộ."
+    ],
+    "examples": {
+      "correct": "Chỉ ra được công dụng của 3 chi tiết.",
+      "incorrect": "Thêm trang sức làm cản khớp chuyển động."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Thiết kế 3 biến thể cho một nghề.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Thêm trang sức làm cản khớp chuyển động."
+    ],
+    "assessmentRubric": [
+      "Chỉ ra được công dụng của 3 chi tiết."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Trang phục kể chuyện” là gì?",
+        "answer": "Trang phục phản ánh nghề, khí hậu và khả năng di chuyển."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "costume"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "sheet"
+    ]
+  },
+  {
+    "id": "sheet",
+    "title": "Character Sheet",
+    "categoryId": "Nhân vật",
+    "chapterId": "sheet",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Mốc chính trùng nhau và phụ kiện đúng phía."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Các góc nhìn cần chia sẻ mốc chiều cao và tỷ lệ.",
+    "illustrations": [],
+    "steps": [
+      "Kẻ đường mắt.",
+      "Vai.",
+      "Hông.",
+      "Gối.",
+      "Vẽ chính diện.",
+      "Bên và sau."
+    ],
+    "examples": {
+      "correct": "Mốc chính trùng nhau và phụ kiện đúng phía.",
+      "incorrect": "Lật bất đối xứng giữa góc trước và sau."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Lưu một sheet gồm 3 góc và 3 biểu cảm.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Lật bất đối xứng giữa góc trước và sau."
+    ],
+    "assessmentRubric": [
+      "Mốc chính trùng nhau và phụ kiện đúng phía."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Character Sheet” là gì?",
+        "answer": "Các góc nhìn cần chia sẻ mốc chiều cao và tỷ lệ."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "sheet"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  },
+  {
+    "id": "environment",
+    "title": "Thiết kế môi trường",
+    "categoryId": "Concept & Game Art",
+    "chapterId": "environment",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Tách rõ 3 lớp và đọc được tỷ lệ người."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Tiền, trung và hậu cảnh tạo độ sâu và đường dẫn.",
+    "illustrations": [],
+    "steps": [
+      "Phác 3 mảng theo khoảng cách.",
+      "Đặt đối tượng tỷ lệ người.",
+      "Nhấn trung cảnh."
+    ],
+    "examples": {
+      "correct": "Tách rõ 3 lớp và đọc được tỷ lệ người.",
+      "incorrect": "Chi tiết hậu cảnh tương phản ngang tiền cảnh."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 4 thumbnail nội thất hoặc ngoại cảnh.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Chi tiết hậu cảnh tương phản ngang tiền cảnh."
+    ],
+    "assessmentRubric": [
+      "Tách rõ 3 lớp và đọc được tỷ lệ người."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Thiết kế môi trường” là gì?",
+        "answer": "Tiền, trung và hậu cảnh tạo độ sâu và đường dẫn."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "environment"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "prop"
+    ]
+  },
+  {
+    "id": "prop",
+    "title": "Thiết kế đạo cụ",
+    "categoryId": "Concept & Game Art",
+    "chapterId": "prop",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Nhìn bản vẽ đoán được thao tác chính."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Hình dạng công cụ gợi ý cách cầm và hướng sử dụng.",
+    "illustrations": [],
+    "steps": [
+      "Chọn chức năng.",
+      "Vẽ phần cầm.",
+      "Khớp nối và đầu làm việc."
+    ],
+    "examples": {
+      "correct": "Nhìn bản vẽ đoán được thao tác chính.",
+      "incorrect": "Bỏ khoảng cách cho bàn tay nắm."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Vẽ 6 biến thể và 2 góc của bản chọn.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Bỏ khoảng cách cho bàn tay nắm."
+    ],
+    "assessmentRubric": [
+      "Nhìn bản vẽ đoán được thao tác chính."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Thiết kế đạo cụ” là gì?",
+        "answer": "Hình dạng công cụ gợi ý cách cầm và hướng sử dụng."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "prop"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "creature"
+    ]
+  },
+  {
+    "id": "creature",
+    "title": "Thiết kế sinh vật",
+    "categoryId": "Concept & Game Art",
+    "chapterId": "creature",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Chân chịu lực hợp lý và 2 đặc điểm có chức năng."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Các đặc điểm cần phù hợp môi trường sống và chuyển động.",
+    "illustrations": [],
+    "steps": [
+      "Chọn hai động vật.",
+      "Phân tích hệ khớp.",
+      "Ghép theo một chức năng."
+    ],
+    "examples": {
+      "correct": "Chân chịu lực hợp lý và 2 đặc điểm có chức năng.",
+      "incorrect": "Ghép chi thiếu khớp nối."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Phác 5 dáng và 1 nghiên cứu chuyển động.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Ghép chi thiếu khớp nối."
+    ],
+    "assessmentRubric": [
+      "Chân chịu lực hợp lý và 2 đặc điểm có chức năng."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Thiết kế sinh vật” là gì?",
+        "answer": "Các đặc điểm cần phù hợp môi trường sống và chuyển động."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "creature"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "pixel"
+    ]
+  },
+  {
+    "id": "pixel",
+    "title": "Pixel art đọc ở cỡ nhỏ",
+    "categoryId": "Concept & Game Art",
+    "chapterId": "pixel",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Nhận ra cả 3 icon trong kích thước gốc."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Cụm màu lớn dễ đọc hơn các pixel lẻ.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ sprite 16×16 với 4 màu.",
+      "Chỉnh các bậc thang ở viền."
+    ],
+    "examples": {
+      "correct": "Nhận ra cả 3 icon trong kích thước gốc.",
+      "incorrect": "Rải pixel đơn làm nhiễu mặt phẳng."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Tạo 3 icon nhận diện ở tỷ lệ 1:1.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Rải pixel đơn làm nhiễu mặt phẳng."
+    ],
+    "assessmentRubric": [
+      "Nhận ra cả 3 icon trong kích thước gốc."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Pixel art đọc ở cỡ nhỏ” là gì?",
+        "answer": "Cụm màu lớn dễ đọc hơn các pixel lẻ."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "pixel"
+    ],
+    "references": [],
+    "nextLessonIds": [
+      "sprite"
+    ]
+  },
+  {
+    "id": "sprite",
+    "title": "Chu kỳ đi bộ sprite",
+    "categoryId": "Concept & Game Art",
+    "chapterId": "sprite",
+    "difficulty": "Ứng dụng",
+    "objectives": [
+      "Chân trụ đứng ổn và vòng lặp ít giật."
+    ],
+    "prerequisites": [],
+    "coreTheory": "Contact, down, passing và up tạo nhịp chuyển trọng lượng.",
+    "illustrations": [],
+    "steps": [
+      "Vẽ bốn tư thế.",
+      "Lặp lại với hai chân đổi vai.",
+      "Xem preview."
+    ],
+    "examples": {
+      "correct": "Chân trụ đứng ổn và vòng lặp ít giật.",
+      "incorrect": "Đổi vị trí gốc sprite giữa các frame."
+    },
+    "exercises": {
+      "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+      "reference": "Xuất sheet 8 frame cùng kích thước.",
+      "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+    },
+    "commonMistakes": [
+      "Đổi vị trí gốc sprite giữa các frame."
+    ],
+    "assessmentRubric": [
+      "Chân trụ đứng ổn và vòng lặp ít giật."
+    ],
+    "flashcards": [
+      {
+        "question": "Nguyên tắc chính của bài “Chu kỳ đi bộ sprite” là gì?",
+        "answer": "Contact, down, passing và up tạo nhịp chuyển trọng lượng."
+      }
+    ],
+    "estimatedMinutes": 25,
+    "skillIds": [
+      "sprite"
+    ],
+    "references": [],
+    "nextLessonIds": []
+  }
+]

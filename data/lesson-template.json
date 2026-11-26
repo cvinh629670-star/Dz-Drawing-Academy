@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": "net-thang-bo-sung",
+      "title": "Nét thẳng tự tin",
+      "categoryId": "Nền tảng",
+      "chapterId": "line",
+      "difficulty": "Cơ bản",
+      "objectives": [
+        "16/20 nét đi qua cả hai điểm, không tô lại."
+      ],
+      "prerequisites": [],
+      "coreTheory": "Chuyển động từ vai giúp nét dài ổn định.",
+      "illustrations": [],
+      "steps": [
+        "Đặt hai điểm.",
+        "Lướt bút trên không ba lần.",
+        "Kéo một nét."
+      ],
+      "examples": {
+        "correct": "16/20 nét đi qua cả hai điểm, không tô lại.",
+        "incorrect": "Móc ở cuối nét do dừng cổ tay."
+      },
+      "exercises": {
+        "warmup": "Phác nhanh ba phiên bản nhỏ của hình minh họa để tìm hướng và tỉ lệ.",
+        "reference": "Vẽ 20 nét giữa các cặp điểm cách nhau 5–15 cm.",
+        "independent": "Đổi góc nhìn hoặc đối tượng, vẽ lại một phiên bản từ trí nhớ rồi đối chiếu với mẫu."
+      },
+      "commonMistakes": [
+        "Móc ở cuối nét do dừng cổ tay."
+      ],
+      "assessmentRubric": [
+        "16/20 nét đi qua cả hai điểm, không tô lại."
+      ],
+      "flashcards": [
+        {
+          "question": "Nguyên tắc chính của bài “Nét thẳng tự tin” là gì?",
+          "answer": "Chuyển động từ vai giúp nét dài ổn định."
+        }
+      ],
+      "estimatedMinutes": 15,
+      "skillIds": [
+        "line"
+      ],
+      "references": [],
+      "nextLessonIds": []
+    }
+  ]
+}
